@@ -67,7 +67,7 @@ Exchange 2013 Versions < 15.00.1497.012, Exchange 2016 CU18 < 15.01.2106.013, Ex
     vuln.state = vulns.STATE.VULN
     return vuln_report:make_output(vuln)
   else
-    return "Patched against CVE-2021-26855"
+    return "Unable to exploit CVE-2021-26855"
   end
 
 end
