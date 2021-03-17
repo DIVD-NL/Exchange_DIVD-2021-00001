@@ -12,7 +12,7 @@ Improved script of Kevin Baumont
 https://github.com/GossiTheDog/scanning
 
 ## http-vuln-cve2021-26855.nse
-Origina script from https://github.com/microsoft/CSS-Exchange/blob/main/Security/src/http-vuln-cve2021-26855.nse
+Original script from https://github.com/microsoft/CSS-Exchange/blob/main/Security/src/http-vuln-cve2021-26855.nse
 
 ## http-vuln-cve2021-26855_patched.nse
 Patched version of the script that also returns output if the host isn't vulenrable
