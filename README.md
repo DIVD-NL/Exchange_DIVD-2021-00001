@@ -12,7 +12,7 @@ Current location: https://github.com/DIVD-NL/scanning
 ### http-vuln-cve2021-26855_patched.nse
 Patched version of the script that also returns output if the host isn't vulenrable
 
-## Old scripts
+## Dissused scripts
 
 ### http-vuln-exchange.nse
 Original version of Kevin Baumont https://github.com/GossiTheDog/scanning
